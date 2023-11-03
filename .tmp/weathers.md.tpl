@@ -36,6 +36,3 @@ Patchy rain possible
 *Updated at: 2023-11-03T06:21:53Z*
 
 </div>
-
-
-<div><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ryota-murakami&show_icons=true&theme=gotham" /><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota-murakami&theme=gotham&layout=compact" /></div>
