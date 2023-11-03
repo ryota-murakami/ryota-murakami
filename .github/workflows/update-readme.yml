@@ -27,6 +27,7 @@ jobs:
         run: |
           go install github.com/huantt/merge-templates@v1.0.0
           merge-templates README.md 'templates/README.md.tpl' '.tmp/weathers.md.tpl'
+          rm -rf .tmp
       - name: Commit
         run: |
           git config user.name github-actions
