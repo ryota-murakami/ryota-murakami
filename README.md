@@ -24,18 +24,18 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8.6 °C</td><td>7.7 °C</td><td>7.2 °C</td><td>6.8 °C</td><td>6.4 °C</td><td>5.7 °C</td><td>5.1 °C</td><td>4.6 °C</td><td>5 °C</td><td>5.6 °C</td><td>6 °C</td><td>5.2 °C</td><td>2.2 °C</td><td>1.3 °C</td><td>0.9 °C</td><td>0.8 °C</td><td>-0.2 °C</td><td>-0.3 °C</td><td>0.1 °C</td><td>0.1 °C</td><td>-0 °C</td><td>-0.8 °C</td><td>-1.5 °C</td><td>-2.5 °C</td>
+        <td>8.6 °C</td><td>7.7 °C</td><td>7.2 °C</td><td>6.8 °C</td><td>6.4 °C</td><td>5.7 °C</td><td>5.1 °C</td><td>4.6 °C</td><td>5 °C</td><td>5.6 °C</td><td>7 °C</td><td>5.2 °C</td><td>2.2 °C</td><td>1.3 °C</td><td>0.9 °C</td><td>0.8 °C</td><td>-0.2 °C</td><td>-0.3 °C</td><td>0.1 °C</td><td>0.1 °C</td><td>-0 °C</td><td>-0.8 °C</td><td>-1.5 °C</td><td>-2.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22 kph</td><td>22.3 kph</td><td>20.2 kph</td><td>24.8 kph</td><td>23 kph</td><td>24.5 kph</td><td>28.1 kph</td><td>28.1 kph</td><td>28.1 kph</td><td>25.9 kph</td><td>23.8 kph</td><td>27.4 kph</td><td>24.8 kph</td><td>31 kph</td><td>34.2 kph</td><td>32 kph</td><td>29.2 kph</td><td>31 kph</td><td>25.6 kph</td><td>24.5 kph</td><td>22.3 kph</td><td>20.2 kph</td><td>18 kph</td><td>19.8 kph</td>
+        <td>22 kph</td><td>22.3 kph</td><td>20.2 kph</td><td>24.8 kph</td><td>23 kph</td><td>24.5 kph</td><td>28.1 kph</td><td>28.1 kph</td><td>28.1 kph</td><td>25.9 kph</td><td>29.9 kph</td><td>27.4 kph</td><td>24.8 kph</td><td>31 kph</td><td>34.2 kph</td><td>32 kph</td><td>29.2 kph</td><td>31 kph</td><td>25.6 kph</td><td>24.5 kph</td><td>22.3 kph</td><td>20.2 kph</td><td>18 kph</td><td>19.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-11-23T18:27:28Z*
+*Updated at: 2023-11-24T01:29:50Z*
 
 </div>
 
